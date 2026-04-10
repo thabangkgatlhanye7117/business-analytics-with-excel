@@ -1,4 +1,6 @@
 Business Analytics with Excel: Practice & Projects
+
+
 Welcome to my GitHub repository, a collection of practice exercises and projects demonstrating my skills in Business Analytics using Microsoft Excel. This repo showcases various Excel techniques and analytical approaches applied to diverse business scenarios.
 
 About This Repository
