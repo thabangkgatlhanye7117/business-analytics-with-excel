@@ -10,11 +10,17 @@ Topics Covered
 Explore projects covering the following key areas:
 
 Data Handling: Cleaning, preparation, and advanced formatting (including conditional formatting).
+
 Core Excel Functions: Application of essential functions for data manipulation and analysis.
+
 Data Analysis: Analyzing data with PivotTables, developing interactive dashboards, and performing descriptive statistics.
+
 Statistical Analysis: Utilizing statistical methods in Excel for data interpretation and decision-making.
+
 Automation: Implementing VBA macros to streamline analytical tasks and enhance efficiency.
+
 How to Use This Repository
+
 Each folder contains a distinct project with Excel workbooks and a dedicated README explaining its objective, methods, and findings.
 
 Feel free to explore, review, and provide feedback on the projects.
